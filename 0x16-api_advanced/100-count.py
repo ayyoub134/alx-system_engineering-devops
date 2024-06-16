@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 """Function to count words in all hot posts of a given Reddit subreddit."""
+=======
+
+n to count words in all hot posts of a given Reddit subreddit."""
+>>>>>>> 66f9c4e411d7ea9546c0d7d105d83ec2a0f7d566
 import requests
 
 
