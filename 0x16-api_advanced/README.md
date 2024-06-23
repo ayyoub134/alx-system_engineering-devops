@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+API advanced
+
+=======
 PI advanced
 
 I continued to practice querying API's in this advanced project, this time
@@ -46,3 +50,4 @@ Prototypes for functions written in this project:
   * Words with no matches are skipped.
   * Results are based on the number of times a keyword appears - ie.,
   `java java java` counts as three separate instances of `java`.
+>>>>>>> 66f9c4e411d7ea9546c0d7d105d83ec2a0f7d566
